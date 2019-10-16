@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ReadWriteDemo.module/Processes/readwritedemo/module/Process.bwp&apos; to &apos;FileReadWrite.bwp&apos;" description="Rename resource &apos;Process.bwp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Processes/readwritedemo/module/Process.bwp" name="FileReadWrite.bwp" stamp="1571193640127" updateReferences="true"/>
+</session>

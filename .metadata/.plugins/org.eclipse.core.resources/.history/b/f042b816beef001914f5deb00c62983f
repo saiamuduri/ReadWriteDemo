@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config:ProjectConfig xmlns:config="http://www.tibco.com/XPD/projectConfig">
+  <projectDetails id="com.example.readwritedemo">
+    <globalDestinations/>
+    <edition>bwe</edition>
+  </projectDetails>
+  <config:assetTypes id="com.tibco.bw.process.asset"/>
+  <config:specialFolders>
+    <config:folder id="_Fcsj0O--EemeJJKj7PX3Xw" kind="com.tibco.bw.process.folder" location="Processes"/>
+  </config:specialFolders>
+</config:ProjectConfig>
